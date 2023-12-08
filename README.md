@@ -1,2 +1,5 @@
-# botanyswam
-Adds SWEM crop support to BotanyPots
+# BotanySWEM
+Adds support for SWEM crops to Botany Pots, allowing for farming of:
+- Alfalfa
+- Timothy
+- Oat
